@@ -1,0 +1,75 @@
+body {
+  background-color: orange;
+}
+.header {
+  position: static;
+  font-size: 80px;
+  z-index: 10;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: Chartreuse;
+  padding: 20px;
+  background-image: url("https://i2.wp.com/www.extractinsulation.com/wp-content/uploads/2016/12/Picture1-1.png?fit=940%2C627&ssl=1");
+}
+.pic {
+  position: static;
+  z-index: 2;
+}
+.delta5 {
+  font-family: "Garamond";
+  font-size: 30px;
+  font-weight: 300;
+  color: #33F3FF;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: black;
+  text-align: center;
+  z-index:3;
+  padding: 20px;
+}
+.Gamma9Gamma9 {
+  font-size: 240px;
+  font-family: "Times Header";
+  font-weight: 100;
+  background-color: #33F3FF;
+  padding-top: 10px;
+  z-index: 4;
+  position: static;
+}
+
+.Ockham3 {
+  font-size: 60px;
+  font-family: "Courier New";
+  color: white;
+  margin-left: 20px;
+  padding: 600;
+  z-index: 5;
+  background-color: orange;
+}
+.Gamma9Gamma9 h2 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  z-index: 6;
+  color: white;
+  background-color: black;
+}
+.delta5 h1 {
+  top: 0;
+  padding: 5px;
+  z-index: 6;
+  color: white;
+  background-color: black;
+  z-index: 8;
+  color: white;
+  position: static;
+  font-size: 200px;
+  z-index: 10;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: Chartreuse;
+  padding: 20px;
+  background-image: url("https://i2.wp.com/www.extractinsulation.com/wp-content/uploads/2016/12/Picture1-1.png?fit=940%2C627&ssl=1");
+}
